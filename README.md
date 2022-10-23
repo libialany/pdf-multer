@@ -1,13 +1,16 @@
 # pdf-multer
 Project in NodeJs using ExpressJs framework
 
+
+**It is a part of an application where you can upload pdfs then you can download them.**
+
 upload-view-delete-list pdf
 
 __setup__
 
 - rename src/_key.js to src/key.js 
 
-- src/keys.js fill your credentials.
+- src/keys.js fill your credentials(pasword of the database , user of the database).
 
 - npm install 
 
