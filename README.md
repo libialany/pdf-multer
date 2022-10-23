@@ -1,12 +1,12 @@
 # pdf-multer
-Project in NodeJs using ExpressJs framework
+**Project in NodeJs using ExpressJs framework**
 
 
-**It is a part of an application where you can upload pdfs then you can download them.**
+_It is a part of an application where you can upload pdfs then you can download them._
 
 upload-view-delete-list pdf
 
-__setup__
+**setup**
 
 - rename src/_key.js to src/key.js 
 
