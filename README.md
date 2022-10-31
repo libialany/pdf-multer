@@ -55,8 +55,9 @@ Instructions
 
     contributes with new project ideas focused on web app and processing of pdf files.
     
-    In the __improvements_ideas__ folder.
+    In the ImprovementsIdeas folder.
     
+    Leave a link to the description in contributing.md.
 
 
 HAPPY HACKTOBERFEST!
