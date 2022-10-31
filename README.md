@@ -53,7 +53,9 @@ Using Git:
 
 Instructions
 
-    contributes with new project ideas focused on web app and processing of pdf files.In the __improvements_ideas__ folder.
+    contributes with new project ideas focused on web app and processing of pdf files.
+    
+    In the __improvements_ideas__ folder.
     
 
 
